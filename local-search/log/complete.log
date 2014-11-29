@@ -1,0 +1,7 @@
+set("howtodefine", "http://localhost:3500/define"); // Sat Nov 29 2014 18:23:44 GMT+0100 (CET)
+q("howtodefine"); // Sat Nov 29 2014 18:23:49 GMT+0100 (CET)
+qparse("howtodefine"); // Sat Nov 29 2014 18:23:49 GMT+0100 (CET)
+exec("howtodefine"); // Sat Nov 29 2014 18:23:49 GMT+0100 (CET)
+get("howtodefine"); // Sat Nov 29 2014 18:23:49 GMT+0100 (CET)
+args("howtodefine"); // Sat Nov 29 2014 18:23:49 GMT+0100 (CET)
+get("howtodefine"); // Sat Nov 29 2014 18:23:49 GMT+0100 (CET)
